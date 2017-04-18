@@ -1,0 +1,2 @@
+# Wheel-Balancer
+Its protoype of an application which can be used for wheel balancing in automation industry. In the present era, demand for automobiles especially heavy vehicles has been increasing drastically to satisfy the growing needs of market. This application which is built using Jswing can be used for balancing wheels with ease. It is compatible with RaspberryPi 3 with added keyboard functionalities which makes it easier for the technicians to access the application even from a distance.
